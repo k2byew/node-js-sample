@@ -1,3 +1,5 @@
+[ ![Codeship Status for k2byew/node-js-sample](https://codeship.com/projects/5e637ed0-2381-0133-88db-3205d6dcf9b5/status?branch=master)](https://codeship.com/projects/96484)
+
 # node-js-sample
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
